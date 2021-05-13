@@ -134,6 +134,8 @@ body {
 
 input:focus, textarea:focus {
   box-shadow: 0 0 2px 0 rgba(6, 161, 164, .5);
+  border-color: rgba(6, 161, 164, .5);
+  background-color: #fff;
   outline: 0;
 }
 
